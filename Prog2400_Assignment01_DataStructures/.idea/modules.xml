@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Prog2400_Assignment01.iml" filepath="$PROJECT_DIR$/.idea/Prog2400_Assignment01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Prog2400_Assignment01_DataStructures.iml" filepath="$PROJECT_DIR$/.idea/Prog2400_Assignment01_DataStructures.iml" />
+
     </modules>
   </component>
 </project>
